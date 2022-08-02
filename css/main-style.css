@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@import url("http://fonts.googleapis.com/earlyaccess/notosanstc.css");
+
+/*首頁*/
+
+body {
+    color: #333;
+    font-family: Verdana, Noto Sans CJK TC !important;
+    font-size: 1.5rem;
+    background-size: cover;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.body2 {
+    color: #333;
+    font-family: Verdana, Noto Sans CJK TC !important;
+    font-size: 1.5rem;
+    background-size: cover;
+    background-color: #000;
+    overflow-x: hidden;
+}
+
+.aa {
+    background: url(../img/white.jpg) no-repeat top center;
+    width: 100%;
+    height: 1273px;
+}
+
+.banner1 {
+    margin-top: 168px;
+}
+
+.news1 {
+    margin-top: 31px;
+    text-align: center;
+}
+
+.bb {
+    background: #000 url(../img/black_gold.jpg) no-repeat top center;
+    width: 100%;
+    height: 1400px;
+}
+
+.banner2 {
+    margin-top: 176px;
+}
+
+.news2 {
+    margin-top: 53px;
+    text-align: center;
+}
