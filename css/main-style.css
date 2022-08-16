@@ -58,6 +58,14 @@ body {
     float: left;
 }
 
+.banner3 {
+    background: url(../img/black_banner2.svg) no-repeat top center;
+    width: 100%;
+    height: 483px;
+    margin-top: 103px;
+    float: left;
+}
+
 .news2 {
     margin-top: 57px;
     text-align: center;
