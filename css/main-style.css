@@ -66,6 +66,14 @@ body {
     float: left;
 }
 
+.banner4 {
+    background: url(../img/black_banner3.svg) no-repeat top center;
+    width: 100%;
+    height: 483px;
+    margin-top: 103px;
+    float: left;
+}
+
 .news2 {
     margin-top: 57px;
     text-align: center;
