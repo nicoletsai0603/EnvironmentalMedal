@@ -79,11 +79,13 @@ h1 .shine_logo2 {
 .top_banner {
     position: absolute;
     top: 0;
+    z-index: 9;
 }
 
 .bottom_banner {
     position: absolute;
     bottom: 0;
+    z-index: 9;
 }
 
 .banner1 {
