@@ -73,14 +73,15 @@ h1 .shine_logo2 {
     width: 100%;
     height: 1380px;
     padding-top: 139px;
+    position: relative;
 }
 
 .banner1 {
     background: url(../img/banner2.jpg) no-repeat top center;
     width: 1767px;
     height: 483px;
-    overflow-x: hidden;
     margin: auto;
+    position: relative;
 }
 
 .banner1::before {
@@ -146,4 +147,38 @@ h1 .shine_logo2 {
 .news2 {
     margin-top: 57px;
     text-align: center;
+}
+
+.bottom_banner {
+    position: absolute;
+    bottom: -30px;
+    z-index: 9;
+    width: 100%;
+}
+
+.Group {
+    position: absolute;
+    bottom: -160px;
+    right: 3%;
+    z-index: 10;
+}
+
+.Group_shine {
+    position: absolute;
+    bottom: -160px;
+    right: 3%;
+    width: 288px;
+    height: 291px;
+    background: url(../img/ribbon_shine.svg) no-repeat -50px -50px;
+    background-size: cover;
+    -webkit-mask: url(../img/Group.svg) no-repeat 0 0;
+    mask: url(../img/Group.svg) no-repeat 0 0;
+    animation: shine_Group 1.5s ease infinite;
+    z-index: 11;
+}
+
+@keyframes shine_Group {
+    100% {
+        background: url(../img/ribbon_shine.svg) no-repeat 230px -50px;
+    }
 }
