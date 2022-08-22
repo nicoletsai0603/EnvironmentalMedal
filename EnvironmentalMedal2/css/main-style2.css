@@ -92,7 +92,8 @@ h1 .shine_logo2 {
 
 .banner1 {
     background: url(../img/index_banner2.jpg) no-repeat center;
-    width: 100%;
+    width: 100vw;
+    overflow: hidden;
     height: 585px;
     margin: auto;
     margin-top: -136px;
