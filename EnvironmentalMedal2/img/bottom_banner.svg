@@ -1,26 +1,23 @@
-<svg id="bottom_banner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="136" viewBox="0 0 1920 136">
+<svg id="bottom_banner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="193" viewBox="0 0 1920 193">
   <defs>
     <clipPath id="clip-path">
-      <rect id="矩形_69" data-name="矩形 69" width="1920" height="136" transform="translate(1920 136) rotate(180)" fill="none"/>
+      <rect id="矩形_70" data-name="矩形 70" width="1920" height="193" fill="none"/>
     </clipPath>
-    <linearGradient id="linear-gradient" x1="0.993" y1="0.348" x2="0.251" y2="0.707" gradientUnits="objectBoundingBox">
+    <linearGradient id="linear-gradient" x1="0.01" y1="0.541" x2="0.88" y2="0.385" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#ab7927"/>
-      <stop offset="0.18" stop-color="#c68f46"/>
-      <stop offset="0.34" stop-color="#fedb6b"/>
+      <stop offset="0.192" stop-color="#fedb6b"/>
       <stop offset="0.36" stop-color="#f5d065"/>
-      <stop offset="0.5" stop-color="#cba04a"/>
+      <stop offset="0.499" stop-color="#cba04a"/>
       <stop offset="0.6" stop-color="#b1823a"/>
       <stop offset="0.66" stop-color="#a87734"/>
       <stop offset="0.75" stop-color="#a2722f"/>
-      <stop offset="0.86" stop-color="#926321"/>
-      <stop offset="0.9" stop-color="#8c5e1c"/>
       <stop offset="1" stop-color="#d69c47"/>
     </linearGradient>
   </defs>
-  <g id="组_326" data-name="组 326" clip-path="url(#clip-path)">
-    <g id="组_325" data-name="组 325">
-      <path id="路径_16100" data-name="路径 16100" d="M1931.53,101.71,1927.9-2.14c-45.87,21.13-102.9,40.53-174.21,56.38-167.36,37.21-389.31,49.63-595.35,50.68-248.83,1.26-489.37-11.77-717.79-30.89-78.83-6.6-157.88-14-243.26-14.59C133.77,59,65.01,62.98,9,72.45l3.36,96.28Z" transform="translate(0 2)" fill="url(#linear-gradient)"/>
-      <path id="路径_16115" data-name="路径 16115" d="M188.59,54.1c85.29,2.99,164.02,11.47,242.56,19.28,227.58,22.64,467.47,40.55,716.15,46.75,205.91,5.14,428.13,1.23,596.65-24.97,71.8-11.16,129.47-25.71,176.04-42.02V140H0V59.47c39.63-4.42,85.47-6.38,131.28-6.38C150.54,53.09,169.81,53.44,188.59,54.1Z" fill="#fff"/>
+  <g id="组_328" data-name="组 328" clip-path="url(#clip-path)">
+    <g id="组_327" data-name="组 327" transform="translate(0 -5.14)">
+      <path id="路径_16100" data-name="路径 16100" d="M0,66.35,3.63,241.116c45.88-29.817,102.93-57.192,174.25-79.558,167.4-52.507,389.41-70.033,595.49-71.515,248.89-1.778,489.49,16.609,717.97,43.589,78.85,9.313,157.92,19.755,243.32,20.588,63.53.621,132.31-5,188.33-18.359L1919.63,0Z" transform="matrix(-1, 0.017, -0.017, -1, 1933.503, 241.079)" fill="url(#linear-gradient)"/>
+      <path id="路径_16116" data-name="路径 16116" d="M188.59-2.718c85.29,3.8,164.02,14.561,242.56,24.476C658.73,50.5,898.62,73.237,1147.3,81.108c205.91,6.525,428.13,1.562,596.65-31.7C1815.76,35.241,1873.43,16.769,1920-3.937v110.27H0V4.1C39.63-1.512,85.47-4,131.28-4c19.26,0,38.53.444,57.31,1.282Z" transform="translate(0 103.807)" fill="#fff"/>
     </g>
   </g>
 </svg>
