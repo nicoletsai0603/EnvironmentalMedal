@@ -1,0 +1,161 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@import url("http://fonts.googleapis.com/earlyaccess/notosanstc.css");
+
+/*首頁*/
+
+body {
+    color: #333;
+    font-family: Verdana, Noto Sans CJK TC !important;
+    font-size: 1.5rem;
+    background-size: cover;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.body2 {
+    color: #333;
+    font-family: Verdana, Noto Sans CJK TC !important;
+    font-size: 1.5rem;
+    background-size: cover;
+    background-color: #000;
+    overflow-x: hidden;
+}
+
+.width1500 {
+    width: 1500px;
+    margin: auto;
+    position: relative;
+    height: 100%;
+}
+
+h1 {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    height: 85px;
+    width: 416px;
+    z-index: 9;
+    display: block;
+}
+
+h1 .shine_logo {
+    position: absolute;
+    left: 0%;
+    top: 0;
+}
+
+h1 .shine_logo2 {
+    position: absolute;
+    left: 0%;
+    top: 0;
+    height: 85px;
+    width: 416px;
+    background: url(../img/Gradient.svg) no-repeat -50px -50px;
+    -webkit-mask: url(../img/logo2.svg) no-repeat 0 0;
+    mask: url(../img/logo2.svg) no-repeat 0 0;
+    animation: shine_logo 1.5s ease infinite;
+    z-index: 9;
+}
+
+@keyframes shine_logo {
+    100% {
+        background: url(../img/Gradient.svg) no-repeat 330px -50px;
+    }
+}
+
+.aa {
+    background: url(../img/index2.jpg) no-repeat top center;
+    width: 100%;
+    height: 1450px;
+    position: relative;
+    padding-top: 248px;
+}
+
+.top_banner {
+    position: absolute;
+    top: 0;
+}
+
+.bottom_banner {
+    position: absolute;
+    bottom: 0;
+}
+
+.banner1 {
+    background: url(../img/index_banner2.jpg) no-repeat top center;
+    width: 100%;
+    height: 520px;
+    margin: auto;
+    margin-top: -136px;
+    position: relative;
+}
+
+.banner1::before {
+    content: '';
+    position: absolute;
+    left: -75%;
+    z-index: 2;
+    display: block;
+    width: 20%;
+    height: 483px;
+    background: -webkit-linear-gradient(left, rgba(250, 250, 250, 0) 0%, rgba(250, 250, 250, .3) 100%);
+    background: linear-gradient(to right, rgba(250, 250, 250, 0) 0%, rgba(250, 250, 250, .3) 100%);
+    -webkit-transform: skewX(-25deg);
+    transform: skewX(-25deg);
+    animation: shine 5s ease infinite;
+}
+
+.banner1:hover ::before {
+    animation: shine 5s ease infinite;
+}
+
+@keyframes shine {
+    100% {
+        left: 325%;
+    }
+}
+
+.news1 {
+    margin-top: 51px;
+    text-align: center;
+}
+
+.bb {
+    background: #000 url(../img/black_gold.jpg) no-repeat top center;
+    width: 100%;
+    height: 1400px;
+}
+
+.banner2 {
+    background: url(../img/black_banner.svg) no-repeat top center;
+    width: 100%;
+    height: 483px;
+    margin-top: 103px;
+    float: left;
+}
+
+.banner3 {
+    background: url(../img/banner-20220816.jpg) no-repeat top center;
+    width: 100%;
+    height: 483px;
+    margin-top: 103px;
+    float: left;
+}
+
+.banner4 {
+    background: url(../img/black_banner3.svg) no-repeat top center;
+    width: 100%;
+    height: 483px;
+    margin-top: 103px;
+    float: left;
+}
+
+.news2 {
+    margin-top: 57px;
+    text-align: center;
+}
