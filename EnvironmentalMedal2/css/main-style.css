@@ -180,3 +180,34 @@ h1 .shine_logo2 {
         background: url(../img/ribbon_shine.svg) no-repeat 230px -50px;
     }
 }
+
+.stamp {
+    position: absolute;
+    bottom: -180px;
+    right: 1%;
+    z-index: 10;
+    opacity: 0;
+    transform-origin: 50% 50%;
+    transform: rotate(0deg) scale(5);
+    animation: stamp_animation 8s ease infinite;
+}
+
+@keyframes stamp_animation {
+    15%,
+    100% {
+        opacity: 0.8;
+        transform: rotate(0) scale(1);
+    }
+    0% {
+        opacity: 0.8;
+        transform: rotate(0deg) scale(1);
+    }
+    5% {
+        opacity: 0;
+        transform: rotate(0) scale(1);
+    }
+    14% {
+        opacity: 0;
+        transform: rotate(0deg) scale(5);
+    }
+}
