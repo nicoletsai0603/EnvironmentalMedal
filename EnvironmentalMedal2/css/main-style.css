@@ -189,7 +189,7 @@ h1 .shine_logo2 {
     opacity: 0;
     transform-origin: 50% 50%;
     transform: rotate(0deg) scale(5);
-    animation: stamp_animation 7s ease infinite;
+    animation: stamp_animation 7s ease forwards;
     mix-blend-mode: multiply
 }
 
