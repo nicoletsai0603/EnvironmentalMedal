@@ -194,21 +194,21 @@ h1 .shine_logo2 {
 }
 
 @keyframes stamp_animation {
-    9%,
-    100% {
-        opacity: 0.8;
-        transform: rotate(0) scale(1);
-    }
     0% {
         opacity: 0;
         transform: rotate(0deg) scale(1);
     }
-    5% {
+    3% {
+        opacity: 0.1;
+        transform: rotate(0deg) scale(5);
+    }
+    6% {
         opacity: 1;
         transform: rotate(0) scale(1);
     }
-    6% {
-        opacity: 0;
-        transform: rotate(0deg) scale(5);
+    9%,
+    100% {
+        opacity: 0.8;
+        transform: rotate(0) scale(1);
     }
 }
