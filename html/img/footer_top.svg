@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="134.19" viewBox="0 0 1920 134.19">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 73" x1="0.42" y1="1080.78" x2="1.4" y2="1080.52" gradientTransform="matrix(1920.32, 0, 0, -134.19, -946.27, 146390.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ab7927"/>
+      <stop offset="0.18" stop-color="#c68f46"/>
+      <stop offset="0.34" stop-color="#fedb6b"/>
+      <stop offset="0.36" stop-color="#f5d065"/>
+      <stop offset="0.5" stop-color="#cba04a"/>
+      <stop offset="0.6" stop-color="#b1823a"/>
+      <stop offset="0.66" stop-color="#a87734"/>
+      <stop offset="0.75" stop-color="#a2722f"/>
+      <stop offset="0.86" stop-color="#926321"/>
+      <stop offset="0.9" stop-color="#8c5e1c"/>
+      <stop offset="1" stop-color="#d69c47"/>
+    </linearGradient>
+  </defs>
+  <title>footer_top</title>
+  <g>
+    <path d="M0,1442.13V1308c46.57,25.18,104.24,47.64,176,64.88,168.53,40.46,390.74,46.48,596.65,38.55,248.68-9.58,488.57-37.23,716.15-72.18,78.54-12.06,157.28-25.16,242.56-29.78,63.45-3.43,132.3-1.39,188.59,8.3v124.34H0Z" transform="translate(0 -1307.94)" style="fill: url(#a)"/>
+    <path d="M0.33,1441.94V1352c46.56,16.89,104.22,32,176,43.51,168.5,27.14,390.68,31.17,596.55,25.86,248.63-6.42,488.49-25,716-48.41,78.53-8.09,157.25-16.88,242.52-20,63.44-2.3,132.28-.93,188.56,5.57v83.39H0.33Z" transform="translate(0 -1307.94)" style="fill: #fffbeb"/>
+  </g>
+</svg>

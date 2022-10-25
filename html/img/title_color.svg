@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="未命名漸層_73" data-name="未命名漸層 73" y1="25" x2="50" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ab7927"/>
+      <stop offset="0.185" stop-color="#c68f46"/>
+      <stop offset="0.338" stop-color="#fedb6b"/>
+      <stop offset="0.363" stop-color="#f5d065"/>
+      <stop offset="0.499" stop-color="#cba04a"/>
+      <stop offset="0.602" stop-color="#b1823a"/>
+      <stop offset="0.66" stop-color="#a87734"/>
+      <stop offset="0.748" stop-color="#a2722f"/>
+      <stop offset="0.86" stop-color="#926321"/>
+      <stop offset="0.896" stop-color="#8c5e1c"/>
+      <stop offset="1" stop-color="#d69c47"/>
+    </linearGradient>
+  </defs>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_1-2" data-name="圖層 1">
+      <rect width="50" height="50" style="fill: url(#未命名漸層_73)"/>
+    </g>
+  </g>
+</svg>

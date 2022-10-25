@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="580.26258" height="11.11407" viewBox="0 0 580.26258 11.11407">
+  <defs>
+    <radialGradient id="未命名漸層_11" data-name="未命名漸層 11" cx="-667.82688" cy="602.62317" r="0.65013" gradientTransform="matrix(403.0921, 0, 0, -1.33002, 269485.87357, 802.25998)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e1ca8f"/>
+      <stop offset="0.144" stop-color="#ceb47c"/>
+      <stop offset="0.64" stop-color="#8c6a39"/>
+      <stop offset="1" stop-color="#543516"/>
+    </radialGradient>
+    <linearGradient id="未命名漸層_73" data-name="未命名漸層 73" x1="-667.08468" y1="641.90098" x2="-667.08468" y2="640.75684" gradientTransform="matrix(202.35999, 0, 0, -6.03094, 135422.48894, 3875.481)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ab7927"/>
+      <stop offset="0.185" stop-color="#c68f46"/>
+      <stop offset="0.338" stop-color="#fedb6b"/>
+      <stop offset="0.363" stop-color="#f5d065"/>
+      <stop offset="0.499" stop-color="#cba04a"/>
+      <stop offset="0.602" stop-color="#b1823a"/>
+      <stop offset="0.66" stop-color="#a87734"/>
+      <stop offset="0.748" stop-color="#a2722f"/>
+      <stop offset="0.86" stop-color="#926321"/>
+      <stop offset="0.896" stop-color="#8c5e1c"/>
+      <stop offset="1" stop-color="#d69c47"/>
+    </linearGradient>
+    <linearGradient id="未命名漸層_73-2" x1="-618.69157" y1="637.40399" x2="-618.69157" y2="636.25984" gradientTransform="matrix(4.28802, 0, 0, -4.28802, 2937.85795, 2737.41574)" xlink:href="#未命名漸層_73"/>
+    <linearGradient id="未命名漸層_73-3" x1="-667.52089" y1="641.90445" x2="-667.52089" y2="640.7603" gradientTransform="matrix(202.36011, 0, 0, -6.03284, 135223.20652, 3876.71647)" xlink:href="#未命名漸層_73"/>
+  </defs>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_1-2" data-name="圖層 1">
+      <g id="title_bottom">
+        <g id="组_162" data-name="组 162">
+          <path id="路径_15948" data-name="路径 15948" d="M.70428,1.52174h578.854a.76315.76315,0,0,0,0-1.52174H.70428a.76315.76315,0,0,0,0,1.52174Z" style="fill: url(#未命名漸層_11)"/>
+        </g>
+        <g id="组_163" data-name="组 163">
+          <path id="路径_15949" data-name="路径 15949" d="M284.17006,4.21161H578.31635a1.16364,1.16364,0,0,1,1.16356,1.16363v.024a1.16132,1.16132,0,0,1-1.159,1.16363h-.00461c-16.63136-.04-271.18552-.39358-293.90711,4.52282a1.1603,1.1603,0,0,1-1.40386-1.13842V5.3707A1.16363,1.16363,0,0,1,284.17006,4.21161Z" style="fill: url(#未命名漸層_73)"/>
+          <path id="路径_15950" data-name="路径 15950" d="M287.34615,6.66465a2.45307,2.45307,0,1,0-2.4531,2.453h.00007A2.453,2.453,0,0,0,287.34615,6.66465Z" style="fill: url(#未命名漸層_73-2)"/>
+          <path id="路径_15951" data-name="路径 15951" d="M285.26952,4.21161H1.94623A1.16364,1.16364,0,0,0,.78267,5.37524V5.4015A1.16016,1.16016,0,0,0,1.93939,6.56513H1.9463c16.63136-.04,260.36022-.39358,283.08188,4.52283a1.16122,1.16122,0,0,0,1.405-1.13843V5.37294A1.16362,1.16362,0,0,0,285.26952,4.21161Z" style="fill: url(#未命名漸層_73-3)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
