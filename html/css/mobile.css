@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (max-width:1173px) {
+@media screen and (max-width:1360px) {
     .index_banner2 {
         width: 125%;
         left: 35%;
@@ -60,6 +60,17 @@
         -webkit-mask-size: 211px 48px;
         mask-size: 211px 48px;
         animation: shine_logo 1.5s ease infinite;
+    }
+    h1 .shine_logo_en {
+        width: 211px;
+        height: 69px;
+        background: url(../img/Gradient.svg) no-repeat -50px -50px;
+        -webkit-mask: url(../img/logo_en.svg) no-repeat 0 0;
+        mask: url(../img/logo_en.svg) no-repeat 0 0;
+        animation: shine_logo 1.5s ease infinite;
+        background-size: 211px 69px;
+        -webkit-mask-size: 211px 69px;
+        mask-size: 211px 69px;
     }
     @keyframes shine_logo {
         100% {
@@ -289,6 +300,9 @@
     .ward_leaf_right {
         display: none;
     }
+    .index_news.en {
+        width: 95%;
+    }
 }
 
 @media screen and (max-width:787px) {
@@ -311,6 +325,9 @@
         border: none;
     }
     .nested_nav li a {
+        width: 100%;
+    }
+    h2.index_news_title.en {
         width: 100%;
     }
 }
@@ -352,7 +369,8 @@
     .bubble {
         margin-top: -5%;
     }
-    h2.index_news_title {
+    h2.index_news_title,
+    h2.index_news_title.en {
         width: 100%;
     }
 }
