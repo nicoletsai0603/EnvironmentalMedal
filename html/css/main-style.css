@@ -142,17 +142,14 @@ header.eems.small .top_banner {
 }
 
 h1 {
-    /* position: absolute; */
     left: 0;
-    top: 15px;
-    height: 85px;
+    padding-top: 10px;
     width: 416px;
     z-index: 9;
     display: block;
 }
 
 h1 .shine_logo {
-    position: absolute;
     left: 0%;
     top: 0;
 }
@@ -160,9 +157,9 @@ h1 .shine_logo {
 h1 .shine_logo2 {
     position: absolute;
     left: 0%;
-    top: 0;
-    height: 85px;
-    width: 416px;
+    top: 10px;
+    height: 69px;
+    width: 424px;
     background: url(../img/Gradient.svg) no-repeat -50px -50px;
     -webkit-mask: url(../img/logo.svg) no-repeat 0 0;
     mask: url(../img/logo.svg) no-repeat 0 0;
@@ -173,9 +170,9 @@ h1 .shine_logo2 {
 h1 .shine_logo_en {
     position: absolute;
     left: 0%;
-    top: 0;
-    height: 85px;
-    width: 416px;
+    top: 10px;
+    height: 69px;
+    width: 424px;
     background: url(../img/Gradient.svg) no-repeat -50px -50px;
     -webkit-mask: url(../img/logo_en.svg) no-repeat 0 0;
     mask: url(../img/logo_en.svg) no-repeat 0 0;
@@ -439,6 +436,7 @@ header.small .small_bg {
     flex-grow: 1;
     padding-top: 5%;
     margin-top: -10%;
+    padding-bottom: 8%;
 }
 
 .stamp {
@@ -503,6 +501,7 @@ header.small .small_bg {
     overflow: hidden;
     flex-grow: 1;
     margin-bottom: 10%;
+    min-height: 750PX;
 }
 
 .inside_border::before {
